@@ -19,6 +19,8 @@ A real-time desktop camera control application built with Python, PyQt5, and Ope
 https://drive.google.com/file/d/1kIfSUwRdak5n45xyY9q24M0BVU10dIZC/view?usp=sharing
 
 
+![](docs/preview.png)
+
 ## Tech Stack
 
 | Technology | |
