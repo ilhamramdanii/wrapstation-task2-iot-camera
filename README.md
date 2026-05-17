@@ -84,23 +84,10 @@ python camera_app.py
 
 ---
 
-## Screenshots & Demo
+## Demo Sistem
 
-### Main Interface — Live Preview
 
-![Main Interface](screenshots/main_interface.png)
-
-### Burst Mode Active
-
-![Burst Mode](screenshots/burst_mode.png)
-
-### Parameter Controls — Exposure, Brightness, Contrast
-
-![Parameter Controls](screenshots/parameter_controls.png)
-
-### Screen Recording
-
-![Demo](screenshots/demo.gif)
+https://drive.google.com/file/d/1kIfSUwRdak5n45xyY9q24M0BVU10dIZC/view?usp=sharing
 
 > **Cara menambah screenshot/recording:**
 > 1. Jalankan aplikasi: `python camera_app.py`
@@ -130,14 +117,6 @@ wrapstation-task2-iot-camera/
 | `SPACE` | Capture single frame |
 | `B` | Toggle burst mode on/off |
 | `Q` | Quit application |
-
----
-
-## Demo Sistem
-
-```
-https://drive.google.com/file/d/1kIfSUwRdak5n45xyY9q24M0BVU10dIZC/view?usp=sharing
-```
 
 ---
 
