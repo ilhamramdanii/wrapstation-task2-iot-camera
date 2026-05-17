@@ -14,6 +14,10 @@ A real-time desktop camera control application built with Python, PyQt5, and Ope
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+## Demo Sistem
+
+https://drive.google.com/file/d/1kIfSUwRdak5n45xyY9q24M0BVU10dIZC/view?usp=sharing
+
 
 ## Tech Stack
 
@@ -83,12 +87,6 @@ python camera_app.py
 - **Clean shutdown** — camera thread and scan thread are stopped gracefully on exit
 
 ---
-
-## Demo Sistem
-
-
-https://drive.google.com/file/d/1kIfSUwRdak5n45xyY9q24M0BVU10dIZC/view?usp=sharing
-
 
 ## Folder Structure
 
