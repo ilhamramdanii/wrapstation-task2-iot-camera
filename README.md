@@ -89,12 +89,6 @@ python camera_app.py
 
 https://drive.google.com/file/d/1kIfSUwRdak5n45xyY9q24M0BVU10dIZC/view?usp=sharing
 
-> **Cara menambah screenshot/recording:**
-> 1. Jalankan aplikasi: `python camera_app.py`
-> 2. Screenshot UI: `Cmd+Shift+4` (macOS) → simpan ke `screenshots/main_interface.png`
-> 3. Screen recording: `Cmd+Shift+5` (macOS) → export sebagai GIF menggunakan [Gifski](https://gif.ski) atau [GIPHY Capture](https://giphy.com/apps/giphycapture) → simpan ke `screenshots/demo.gif`
-
----
 
 ## Folder Structure
 
